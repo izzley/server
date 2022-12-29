@@ -1,4 +1,3 @@
-use http::request::Request;
 use server::Server;
 
 mod http;
